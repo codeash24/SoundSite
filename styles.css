@@ -17,13 +17,14 @@
   justify-content:center ;
   margin:auto;
 }
+
 #tile{
   padding:1rem;
   text-align: center;
 }
 
 #tile:hover{
-  opacity: 80%;
+  opacity: 60%;
   cursor: pointer;
 }
 
