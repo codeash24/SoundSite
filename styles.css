@@ -2,3 +2,21 @@
   background-color: rgb(48, 47, 47);
   color:white;
 }
+
+#heading{
+  padding-top: 2rem;
+  text-align: center;
+}
+
+#sound-tiles-row{
+  display: flex;
+  align-items: center;
+  justify-content:center ;
+}
+#tile{
+  padding:1rem;
+}
+#content{
+  width: 120px;
+  height: auto;
+}
