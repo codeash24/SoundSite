@@ -27,7 +27,6 @@ triggering.src = "/SoundSite/src/triggering.wav";
 
 function audioFunction(audio){
    if (audio.paused) {
-    // audio.currentTime=0;
    audio.loop=true;
     audio.play();
  } else {
@@ -36,5 +35,5 @@ function audioFunction(audio){
 }
 
 function alertUser(){
-  window.alert("Contains ambulance siren");
+    alert("trigger - ambulance sounds");
 }
