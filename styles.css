@@ -28,7 +28,7 @@
   cursor: pointer;
 }
 
-.content{
+#content{
   width: 120px;
   height: auto;
   border-radius: 50%;
