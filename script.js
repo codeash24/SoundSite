@@ -22,6 +22,9 @@ clock_timer.src = "/SoundSite/src/clock_timer.wav";
 let thunder = new Audio();
 thunder.src = "/SoundSite/src/thunder.wav";
 
+let triggering  = new Audio();
+triggering.src = "/SoundSite/src/triggering.wav";
+
 function audioFunction(audio){
    if (audio.paused) {
     // audio.currentTime=0;
