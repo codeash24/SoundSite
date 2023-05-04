@@ -34,3 +34,7 @@ function audioFunction(audio){
    audio.pause();
  }
 }
+
+function alertUser(){
+  window.alert("Contains ambulance siren");
+}
